@@ -1,0 +1,65 @@
+{
+  "sign": "gemini",
+  "date": "2025-11-02",
+  "sources": [
+    {
+      "interpreter": "horoscope.com",
+      "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-gemini.aspx"
+    },
+    {
+      "interpreter": "astrology.com",
+      "source_url": "https://www.astrology.com/horoscope/daily/gemini.html"
+    }
+  ],
+  "summaries": [
+    {
+      "tone": "hopeful",
+      "facets": {
+        "love": "steamy",
+        "career": "uncertain",
+        "health": "tested"
+      },
+      "key_points": [
+        "Hope surrounds you",
+        "Mystical moon influences",
+        "Facing uncertainty",
+        "Don't give up"
+      ],
+      "final_summary": "Today brings hope and a steamy love forecast, but you may feel tested in your career and health.",
+      "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-gemini.aspx",
+      "interpreter": "horoscope.com"
+    },
+    {
+      "tone": "neutral",
+      "facets": {
+        "love": "N/A",
+        "career": "N/A",
+        "health": "N/A"
+      },
+      "key_points": [
+        "Tarot reading available",
+        "Get a Yes/No answer",
+        "Actionable advice provided"
+      ],
+      "final_summary": "Explore tarot for a direct answer and guidance.",
+      "source_url": "https://www.astrology.com/horoscope/daily/gemini.html",
+      "interpreter": "astrology.com"
+    }
+  ],
+  "final": {
+    "tone": "optimistic",
+    "facets": {
+      "love": "steamy love forecast",
+      "career": "feeling tested",
+      "health": "feeling tested"
+    },
+    "key_points": [
+      "Today brings hope",
+      "Steamy love forecast",
+      "Career challenges",
+      "Health challenges",
+      "Explore tarot for guidance"
+    ],
+    "final_summary": "Embrace the hopeful love vibes today, but be prepared for challenges in your career and health; consider tarot for insights."
+  }
+}

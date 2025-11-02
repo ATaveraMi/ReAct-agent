@@ -1,0 +1,63 @@
+{
+  "sign": "pisces",
+  "date": "2025-11-02",
+  "sources": [
+    {
+      "interpreter": "horoscope.com",
+      "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-pisces.aspx"
+    },
+    {
+      "interpreter": "astrology.com",
+      "source_url": "https://www.astrology.com/horoscope/daily/pisces.html"
+    }
+  ],
+  "summaries": [
+    {
+      "tone": "hopeful",
+      "facets": {
+        "love": "It's getting steamy in your love life.",
+        "career": "Stay resilient amidst uncertainties.",
+        "health": "Focus on self-care during challenging times."
+      },
+      "key_points": [
+        "Mystical moon brings hope.",
+        "Face uncertainties with resilience.",
+        "Don't give up on yourself."
+      ],
+      "final_summary": "Embrace the hope and passion in your love life while navigating uncertainties in your career and prioritizing self-care.",
+      "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-pisces.aspx",
+      "interpreter": "horoscope.com"
+    },
+    {
+      "tone": "neutral",
+      "facets": {
+        "love": "N/A",
+        "career": "N/A",
+        "health": "N/A"
+      },
+      "key_points": [
+        "Discover your unique life path",
+        "Understand your personality"
+      ],
+      "final_summary": "Explore your birth chart to gain insights into your life and personality.",
+      "source_url": "https://www.astrology.com/horoscope/daily/pisces.html",
+      "interpreter": "astrology.com"
+    }
+  ],
+  "final": {
+    "tone": "optimistic",
+    "facets": {
+      "love": "embrace hope and passion",
+      "career": "navigate uncertainties",
+      "health": "prioritize self-care"
+    },
+    "key_points": [
+      "Embrace hope in love",
+      "Passion is key",
+      "Career uncertainties ahead",
+      "Focus on self-care",
+      "Explore your birth chart"
+    ],
+    "final_summary": "Today is a day to embrace love and passion while managing career uncertainties and focusing on your well-being."
+  }
+}

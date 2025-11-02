@@ -1,0 +1,63 @@
+{
+  "sign": "cancer",
+  "date": "2025-11-02",
+  "sources": [
+    {
+      "interpreter": "horoscope.com",
+      "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-cancer.aspx"
+    },
+    {
+      "interpreter": "astrology.com",
+      "source_url": "https://www.astrology.com/horoscope/daily/cancer.html"
+    }
+  ],
+  "summaries": [
+    {
+      "tone": "hopeful",
+      "facets": {
+        "love": "getting steamy",
+        "career": "uncertain",
+        "health": "tested"
+      },
+      "key_points": [
+        "Hope surrounds you",
+        "Mystical moon influences",
+        "Time of uncertainty",
+        "Don't give up"
+      ],
+      "final_summary": "Today brings hope and potential challenges; stay resilient through uncertainties.",
+      "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-cancer.aspx",
+      "interpreter": "horoscope.com"
+    },
+    {
+      "tone": "neutral",
+      "facets": {
+        "love": "N/A",
+        "career": "N/A",
+        "health": "N/A"
+      },
+      "key_points": [
+        "Tarot reading available",
+        "Get a Yes / No answer",
+        "Actionable advice provided"
+      ],
+      "final_summary": "Explore tarot for guidance with a Yes / No answer and actionable advice.",
+      "source_url": "https://www.astrology.com/horoscope/daily/cancer.html",
+      "interpreter": "astrology.com"
+    }
+  ],
+  "final": {
+    "tone": "optimistic",
+    "facets": {
+      "love": "Stay open to new connections.",
+      "career": "Be prepared for unexpected challenges.",
+      "health": "Maintain resilience during stressful times."
+    },
+    "key_points": [
+      "Hope is in the air.",
+      "Potential challenges ahead.",
+      "Use tarot for guidance."
+    ],
+    "final_summary": "Embrace today's hope while staying resilient against challenges."
+  }
+}

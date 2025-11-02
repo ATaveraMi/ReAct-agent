@@ -1,0 +1,44 @@
+{
+  "sign": "taurus",
+  "date": "2025-11-02",
+  "sources": [
+    {
+      "interpreter": "horoscope.com",
+      "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-taurus.aspx"
+    }
+  ],
+  "summaries": [
+    {
+      "tone": "hopeful",
+      "facets": {
+        "love": "steamy",
+        "career": "uncertain",
+        "health": "resilient"
+      },
+      "key_points": [
+        "Hope surrounds you today",
+        "Love life is heating up",
+        "Facing uncertainty in career",
+        "Stay resilient in health matters"
+      ],
+      "final_summary": "Today brings hope and a steamy love life, but be prepared for uncertainties in your career while maintaining resilience in your health.",
+      "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-taurus.aspx",
+      "interpreter": "horoscope.com"
+    }
+  ],
+  "final": {
+    "tone": "optimistic",
+    "facets": {
+      "love": "steamy love life",
+      "career": "uncertainties",
+      "health": "maintain resilience"
+    },
+    "key_points": [
+      "hopeful day",
+      "exciting romantic prospects",
+      "career challenges ahead",
+      "stay strong in health"
+    ],
+    "final_summary": "Embrace the excitement in love while navigating career uncertainties and focusing on your health."
+  }
+}

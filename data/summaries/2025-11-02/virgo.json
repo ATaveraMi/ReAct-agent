@@ -1,0 +1,62 @@
+{
+  "sign": "virgo",
+  "date": "2025-11-02",
+  "sources": [
+    {
+      "interpreter": "horoscope.com",
+      "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-virgo.aspx"
+    },
+    {
+      "interpreter": "astrology.com",
+      "source_url": "https://www.astrology.com/horoscope/daily/virgo.html"
+    }
+  ],
+  "summaries": [
+    {
+      "tone": "hopeful",
+      "facets": {
+        "love": "It's getting steamy in your love life.",
+        "career": "Uncertainty may challenge your professional path.",
+        "health": "Focus on self-care during this testing time."
+      },
+      "key_points": [
+        "Mystical moon influences your emotions.",
+        "Hope surrounds you today.",
+        "Face uncertainties with resilience."
+      ],
+      "final_summary": "Today brings a mix of hope and challenges, particularly in love and career, urging you to stay resilient.",
+      "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-virgo.aspx",
+      "interpreter": "horoscope.com"
+    },
+    {
+      "tone": "informativo",
+      "facets": {
+        "love": "exploración personal",
+        "career": "descubrimiento de habilidades",
+        "health": "autoconocimiento"
+      },
+      "key_points": [
+        "Descubre tu carta natal",
+        "Conoce tu camino de vida",
+        "Entiende tu personalidad"
+      ],
+      "final_summary": "Explora tu carta natal para descubrir tu camino y personalidad únicos.",
+      "source_url": "https://www.astrology.com/horoscope/daily/virgo.html",
+      "interpreter": "astrology.com"
+    }
+  ],
+  "final": {
+    "tone": "optimista",
+    "facets": {
+      "love": "desafíos y esperanza",
+      "career": "resiliencia necesaria",
+      "health": "mantenerse fuerte"
+    },
+    "key_points": [
+      "mezcla de esperanza y desafíos",
+      "resiliencia en amor y carrera",
+      "explora tu carta natal"
+    ],
+    "final_summary": "Hoy es un día de esperanza y desafíos, especialmente en el amor y la carrera; mantén la resiliencia y explora tu carta natal."
+  }
+}

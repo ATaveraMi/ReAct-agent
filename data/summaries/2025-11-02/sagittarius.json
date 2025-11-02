@@ -1,0 +1,63 @@
+{
+  "sign": "sagittarius",
+  "date": "2025-11-02",
+  "sources": [
+    {
+      "interpreter": "horoscope.com",
+      "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-sagittarius.aspx"
+    },
+    {
+      "interpreter": "astrology.com",
+      "source_url": "https://www.astrology.com/horoscope/daily/sagittarius.html"
+    }
+  ],
+  "summaries": [
+    {
+      "tone": "hopeful",
+      "facets": {
+        "love": "steamy",
+        "career": "uncertain",
+        "health": "resilient"
+      },
+      "key_points": [
+        "Hope surrounds you today",
+        "Mystical moon influences your emotions",
+        "Facing uncertainty but don't give up"
+      ],
+      "final_summary": "Today brings a hopeful energy as you navigate uncertainties in love and career; stay resilient.",
+      "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-sagittarius.aspx",
+      "interpreter": "horoscope.com"
+    },
+    {
+      "tone": "neutral",
+      "facets": {
+        "love": "N/A",
+        "career": "N/A",
+        "health": "N/A"
+      },
+      "key_points": [
+        "Tarot reading available",
+        "Get a Yes/No answer",
+        "Includes actionable advice"
+      ],
+      "final_summary": "Explore a Tarot reading for clear Yes/No answers and practical guidance.",
+      "source_url": "https://www.astrology.com/horoscope/daily/sagittarius.html",
+      "interpreter": "astrology.com"
+    }
+  ],
+  "final": {
+    "tone": "hopeful",
+    "facets": {
+      "love": "navigate uncertainties",
+      "career": "stay resilient",
+      "health": ""
+    },
+    "key_points": [
+      "hopeful energy today",
+      "navigate uncertainties in love",
+      "stay resilient in career",
+      "consider a Tarot reading"
+    ],
+    "final_summary": "Today encourages resilience amidst uncertainties in love and career."
+  }
+}

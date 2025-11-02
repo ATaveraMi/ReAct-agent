@@ -1,0 +1,63 @@
+{
+  "sign": "capricorn",
+  "date": "2025-11-02",
+  "sources": [
+    {
+      "interpreter": "horoscope.com",
+      "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-capricorn.aspx"
+    },
+    {
+      "interpreter": "astrology.com",
+      "source_url": "https://www.astrology.com/horoscope/daily/capricorn.html"
+    }
+  ],
+  "summaries": [
+    {
+      "tone": "hopeful",
+      "facets": {
+        "love": "exciting developments",
+        "career": "uncertainty ahead",
+        "health": "stay resilient"
+      },
+      "key_points": [
+        "Mystical moon brings hope",
+        "Love life heating up",
+        "Facing uncertainty",
+        "Don't give up"
+      ],
+      "final_summary": "Today brings a mix of hope and uncertainty, especially in love and career. Stay resilient and embrace the exciting developments ahead.",
+      "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-capricorn.aspx",
+      "interpreter": "horoscope.com"
+    },
+    {
+      "tone": "informativo",
+      "facets": {
+        "love": "exploración personal",
+        "career": "autoconocimiento",
+        "health": "reflexión interna"
+      },
+      "key_points": [
+        "Descubre tu carta natal",
+        "Entiende tu camino de vida",
+        "Conoce tu personalidad"
+      ],
+      "final_summary": "Explora tu carta natal para comprender mejor tu vida y personalidad.",
+      "source_url": "https://www.astrology.com/horoscope/daily/capricorn.html",
+      "interpreter": "astrology.com"
+    }
+  ],
+  "final": {
+    "tone": "optimistic",
+    "facets": {
+      "love": "mixed feelings",
+      "career": "uncertainty but potential",
+      "health": "stay resilient"
+    },
+    "key_points": [
+      "mix of hope and uncertainty",
+      "exciting developments ahead",
+      "explore your natal chart"
+    ],
+    "final_summary": "Embrace the day's mix of hope and uncertainty in love and career while exploring your natal chart for deeper insights."
+  }
+}

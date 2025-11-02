@@ -1,0 +1,63 @@
+{
+  "sign": "libra",
+  "date": "2025-11-02",
+  "sources": [
+    {
+      "interpreter": "horoscope.com",
+      "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-libra.aspx"
+    },
+    {
+      "interpreter": "astrology.com",
+      "source_url": "https://www.astrology.com/horoscope/daily/libra.html"
+    }
+  ],
+  "summaries": [
+    {
+      "tone": "hopeful",
+      "facets": {
+        "love": "getting steamy",
+        "career": "uncertainty",
+        "health": "stay resilient"
+      },
+      "key_points": [
+        "Hope surrounds you today",
+        "Mystical moon influences your emotions",
+        "Face uncertainties with courage",
+        "Don't give up on yourself"
+      ],
+      "final_summary": "Today brings hope and emotional depth, urging you to confront uncertainties with resilience.",
+      "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-libra.aspx",
+      "interpreter": "horoscope.com"
+    },
+    {
+      "tone": "informativo",
+      "facets": {
+        "love": "exploración personal",
+        "career": "descubrimiento de habilidades",
+        "health": "autoconocimiento"
+      },
+      "key_points": [
+        "Descubre tu carta natal",
+        "Entiende tu camino de vida",
+        "Conoce tu personalidad"
+      ],
+      "final_summary": "Explora tu carta natal para entender mejor tu vida y personalidad.",
+      "source_url": "https://www.astrology.com/horoscope/daily/libra.html",
+      "interpreter": "astrology.com"
+    }
+  ],
+  "final": {
+    "tone": "optimista",
+    "facets": {
+      "love": "reflexiona sobre tus emociones",
+      "career": "enfrenta desafíos con valentía",
+      "health": "mantén una actitud positiva"
+    },
+    "key_points": [
+      "Hoy trae esperanza",
+      "Confronta incertidumbres",
+      "Explora tu carta natal"
+    ],
+    "final_summary": "Un día para enfrentar lo desconocido con resiliencia y autoconocimiento."
+  }
+}

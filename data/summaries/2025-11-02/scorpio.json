@@ -1,0 +1,62 @@
+{
+  "sign": "scorpio",
+  "date": "2025-11-02",
+  "sources": [
+    {
+      "interpreter": "horoscope.com",
+      "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-scorpio.aspx"
+    },
+    {
+      "interpreter": "astrology.com",
+      "source_url": "https://www.astrology.com/horoscope/daily/scorpio.html"
+    }
+  ],
+  "summaries": [
+    {
+      "tone": "hopeful",
+      "facets": {
+        "love": "It's getting steamy, whether single or taken.",
+        "career": "Stay resilient during uncertain times.",
+        "health": "Maintain a positive outlook."
+      },
+      "key_points": [
+        "Mystical moon brings hope.",
+        "Facing uncertainty but don't give up.",
+        "Love forecast suggests passion."
+      ],
+      "final_summary": "Today brings a hopeful energy, especially in love, urging you to stay resilient amidst uncertainties.",
+      "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-scorpio.aspx",
+      "interpreter": "horoscope.com"
+    },
+    {
+      "tone": "informativo",
+      "facets": {
+        "love": "n/a",
+        "career": "n/a",
+        "health": "n/a"
+      },
+      "key_points": [
+        "Descubre tu carta natal",
+        "Conoce tu camino de vida",
+        "Explora tu personalidad"
+      ],
+      "final_summary": "Explora tu carta natal para entender mejor tu vida y personalidad.",
+      "source_url": "https://www.astrology.com/horoscope/daily/scorpio.html",
+      "interpreter": "astrology.com"
+    }
+  ],
+  "final": {
+    "tone": "esperanzador",
+    "facets": {
+      "love": "energía positiva en el amor",
+      "career": "n/a",
+      "health": "n/a"
+    },
+    "key_points": [
+      "energía esperanzadora hoy",
+      "resiliencia ante incertidumbres",
+      "explora tu carta natal"
+    ],
+    "final_summary": "Hoy es un día lleno de esperanza, especialmente en el amor, y es un buen momento para explorar tu carta natal."
+  }
+}

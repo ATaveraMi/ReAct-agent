@@ -1,0 +1,63 @@
+{
+  "sign": "aquarius",
+  "date": "2025-11-02",
+  "sources": [
+    {
+      "interpreter": "horoscope.com",
+      "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-aquarius.aspx"
+    },
+    {
+      "interpreter": "astrology.com",
+      "source_url": "https://www.astrology.com/horoscope/daily/aquarius.html"
+    }
+  ],
+  "summaries": [
+    {
+      "tone": "hopeful",
+      "facets": {
+        "love": "It's getting steamy in your love life.",
+        "career": "Uncertainty may challenge your professional path.",
+        "health": "Stay resilient during this testing time."
+      },
+      "key_points": [
+        "Mystical moon brings hope.",
+        "Facing uncertainty.",
+        "Don't give up on yourself."
+      ],
+      "final_summary": "Embrace the hope surrounding you, even amidst uncertainty in love and career.",
+      "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-aquarius.aspx",
+      "interpreter": "horoscope.com"
+    },
+    {
+      "tone": "informativo",
+      "facets": {
+        "love": "exploración personal",
+        "career": "autoconocimiento",
+        "health": "bienestar emocional"
+      },
+      "key_points": [
+        "Descubre tu carta natal",
+        "Conoce tu camino de vida",
+        "Entiende tu personalidad"
+      ],
+      "final_summary": "Explora tu carta natal para entender mejor tu vida y personalidad.",
+      "source_url": "https://www.astrology.com/horoscope/daily/aquarius.html",
+      "interpreter": "astrology.com"
+    }
+  ],
+  "final": {
+    "tone": "optimista",
+    "facets": {
+      "love": "incertidumbre",
+      "career": "incertidumbre",
+      "health": "exploración personal"
+    },
+    "key_points": [
+      "Abraza la esperanza",
+      "Incertidumbre en el amor",
+      "Incertidumbre en la carrera",
+      "Explora tu carta natal"
+    ],
+    "final_summary": "Aprovecha la esperanza a tu alrededor, a pesar de la incertidumbre en el amor y la carrera, y considera explorar tu carta natal para una mejor comprensión personal."
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "sign": "leo",
+  "date": "2025-11-02",
+  "sources": [
+    {
+      "interpreter": "horoscope.com",
+      "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-leo.aspx"
+    },
+    {
+      "interpreter": "astrology.com",
+      "source_url": "https://www.astrology.com/horoscope/daily/leo.html"
+    }
+  ],
+  "summaries": [
+    {
+      "tone": "hopeful",
+      "facets": {
+        "love": "It's getting steamy, whether single or taken.",
+        "career": "Uncertainty may challenge your path.",
+        "health": "Stay resilient during testing times."
+      },
+      "key_points": [
+        "Mystical moon brings hope.",
+        "Facing uncertainty in life.",
+        "Don't give up on yourself."
+      ],
+      "final_summary": "Embrace the hope surrounding you today, as challenges may arise, but perseverance will lead to clarity.",
+      "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-leo.aspx",
+      "interpreter": "horoscope.com"
+    },
+    {
+      "tone": "informativo",
+      "facets": {
+        "love": "exploración personal",
+        "career": "autoconocimiento",
+        "health": "reflexión interna"
+      },
+      "key_points": [
+        "Descubre tu carta natal",
+        "Conoce tu camino de vida",
+        "Entiende tu personalidad"
+      ],
+      "final_summary": "Explora tu carta natal para descubrir tu camino y personalidad únicos.",
+      "source_url": "https://www.astrology.com/horoscope/daily/leo.html",
+      "interpreter": "astrology.com"
+    }
+  ],
+  "final": {
+    "tone": "optimista",
+    "facets": {
+      "love": "mantén la esperanza en tus relaciones",
+      "career": "la perseverancia te llevará al éxito",
+      "health": "enfrenta los desafíos con claridad"
+    },
+    "key_points": [
+      "abraza la esperanza",
+      "los desafíos pueden surgir",
+      "la perseverancia trae claridad",
+      "explora tu carta natal"
+    ],
+    "final_summary": "Hoy es un día para mantener la esperanza y enfrentar los desafíos con perseverancia, lo que te llevará a una mayor claridad en tu camino."
+  }
+}
