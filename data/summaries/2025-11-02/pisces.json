@@ -15,16 +15,17 @@
     {
       "tone": "hopeful",
       "facets": {
-        "love": "It's getting steamy in your love life.",
-        "career": "Stay resilient amidst uncertainties.",
-        "health": "Focus on self-care during challenging times."
+        "love": "steamy",
+        "career": "uncertain",
+        "health": "tested"
       },
       "key_points": [
-        "Mystical moon brings hope.",
-        "Face uncertainties with resilience.",
-        "Don't give up on yourself."
+        "Hope surrounds you today",
+        "Love life is heating up",
+        "Facing uncertainty in career",
+        "Stay resilient"
       ],
-      "final_summary": "Embrace the hope and passion in your love life while navigating uncertainties in your career and prioritizing self-care.",
+      "final_summary": "Today brings hope and a steamy love life, but be prepared for uncertainties in your career. Stay resilient through the challenges.",
       "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-pisces.aspx",
       "interpreter": "horoscope.com"
     },
@@ -47,17 +48,15 @@
   "final": {
     "tone": "optimistic",
     "facets": {
-      "love": "embrace hope and passion",
-      "career": "navigate uncertainties",
-      "health": "prioritize self-care"
+      "love": "steamy love life",
+      "career": "uncertainties ahead",
+      "health": "stay resilient"
     },
     "key_points": [
-      "Embrace hope in love",
-      "Passion is key",
-      "Career uncertainties ahead",
-      "Focus on self-care",
-      "Explore your birth chart"
+      "hopeful day",
+      "challenges in career",
+      "explore your birth chart"
     ],
-    "final_summary": "Today is a day to embrace love and passion while managing career uncertainties and focusing on your well-being."
+    "final_summary": "Embrace the hope in your love life while navigating career uncertainties with resilience."
   }
 }

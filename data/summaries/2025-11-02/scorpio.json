@@ -16,47 +16,48 @@
       "tone": "hopeful",
       "facets": {
         "love": "It's getting steamy, whether single or taken.",
-        "career": "Stay resilient during uncertain times.",
-        "health": "Maintain a positive outlook."
+        "career": "Uncertainty may challenge your path.",
+        "health": "Focus on self-care during this testing time."
       },
       "key_points": [
         "Mystical moon brings hope.",
-        "Facing uncertainty but don't give up.",
-        "Love forecast suggests passion."
+        "Time of uncertainty ahead.",
+        "Don't give up on yourself."
       ],
-      "final_summary": "Today brings a hopeful energy, especially in love, urging you to stay resilient amidst uncertainties.",
+      "final_summary": "Embrace the hope brought by the moon while navigating through uncertainty in your career and focusing on self-care.",
       "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-scorpio.aspx",
       "interpreter": "horoscope.com"
     },
     {
       "tone": "informativo",
       "facets": {
-        "love": "n/a",
-        "career": "n/a",
-        "health": "n/a"
+        "love": "exploración personal",
+        "career": "autoconocimiento",
+        "health": "reflexión interna"
       },
       "key_points": [
         "Descubre tu carta natal",
         "Conoce tu camino de vida",
-        "Explora tu personalidad"
+        "Entiende tu personalidad"
       ],
-      "final_summary": "Explora tu carta natal para entender mejor tu vida y personalidad.",
+      "final_summary": "Explora tu carta natal para descubrir aspectos clave de tu vida y personalidad.",
       "source_url": "https://www.astrology.com/horoscope/daily/scorpio.html",
       "interpreter": "astrology.com"
     }
   ],
   "final": {
-    "tone": "esperanzador",
+    "tone": "optimistic",
     "facets": {
-      "love": "energía positiva en el amor",
-      "career": "n/a",
-      "health": "n/a"
+      "love": "focus on self-care",
+      "career": "navigate uncertainty",
+      "health": "embrace hope"
     },
     "key_points": [
-      "energía esperanzadora hoy",
-      "resiliencia ante incertidumbres",
-      "explora tu carta natal"
+      "Embrace the hope from the moon",
+      "Navigate career uncertainties",
+      "Focus on self-care",
+      "Explore your natal chart"
     ],
-    "final_summary": "Hoy es un día lleno de esperanza, especialmente en el amor, y es un buen momento para explorar tu carta natal."
+    "final_summary": "Today encourages you to find hope amidst career challenges while prioritizing your well-being."
   }
 }

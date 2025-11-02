@@ -15,16 +15,16 @@
     {
       "tone": "hopeful",
       "facets": {
-        "love": "steamy",
-        "career": "uncertain",
-        "health": "resilient"
+        "love": "It's getting steamy, whether single or taken.",
+        "career": "Uncertain times may require patience.",
+        "health": "Focus on self-care during this testing period."
       },
       "key_points": [
-        "Hope surrounds you today",
-        "Mystical moon influences your emotions",
-        "Facing uncertainty but don't give up"
+        "Mystical moon brings hope.",
+        "Facing uncertainty in life.",
+        "Don't give up on yourself."
       ],
-      "final_summary": "Today brings a hopeful energy as you navigate uncertainties in love and career; stay resilient.",
+      "final_summary": "Today brings a hopeful energy, urging you to embrace love and navigate uncertainties with resilience.",
       "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-sagittarius.aspx",
       "interpreter": "horoscope.com"
     },
@@ -38,9 +38,9 @@
       "key_points": [
         "Tarot reading available",
         "Get a Yes/No answer",
-        "Includes actionable advice"
+        "Actionable advice provided"
       ],
-      "final_summary": "Explore a Tarot reading for clear Yes/No answers and practical guidance.",
+      "final_summary": "Explore tarot for guidance with a Yes/No answer and actionable advice.",
       "source_url": "https://www.astrology.com/horoscope/daily/sagittarius.html",
       "interpreter": "astrology.com"
     }
@@ -48,16 +48,16 @@
   "final": {
     "tone": "hopeful",
     "facets": {
-      "love": "navigate uncertainties",
-      "career": "stay resilient",
-      "health": ""
+      "love": "embrace love",
+      "career": "navigate uncertainties",
+      "health": "resilience"
     },
     "key_points": [
       "hopeful energy today",
-      "navigate uncertainties in love",
-      "stay resilient in career",
-      "consider a Tarot reading"
+      "embrace love",
+      "navigate uncertainties",
+      "explore tarot for guidance"
     ],
-    "final_summary": "Today encourages resilience amidst uncertainties in love and career."
+    "final_summary": "Today encourages you to embrace love and face uncertainties with resilience, seeking guidance through tarot."
   }
 }

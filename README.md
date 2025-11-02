@@ -57,6 +57,36 @@ python main.py --date YYYY-MM-DD --interpreters horoscope.com astrology.com
   - `outputs/pca_kmeans_{model}.png`: scatter 2D PCA por modelo
   - `outputs/analysis_report.json`: métricas de clustering
 
+### Parte B – ¿Cómo funcionan los Embeddings y el Análisis?
+
+- Fuente de texto por signo: se usa `final_summary` generado por el agente (consolidando los resúmenes por intérprete para cada signo). Ese texto es el input de embeddings.
+- Dos modelos de embeddings: se generan vectores por signo con dos modelos de OpenAI (por defecto `text-embedding-3-large` y `text-embedding-3-small`).
+  - Configurable vía `.env`:
+    - `OPENAI_EMBED_MODEL_LARGE` (default: `text-embedding-3-large`)
+    - `OPENAI_EMBED_MODEL_SMALL` (default: `text-embedding-3-small`)
+- Implementación:
+  - Construcción de vectores en `app/embeddings/build_embeddings.py`.
+  - El CLI prepara `sign_to_text` con `final_summary` por signo y llama a `build_embeddings`.
+- Salidas de embeddings:
+  - `data/embeddings_{modelo}.csv`: CSV con una fila por signo (primera columna `sign`).
+  - `data/embeddings_{modelo}.npy`: matriz NumPy con los vectores.
+- Análisis de separabilidad (en `app/embeddings/analyze.py`):
+  - PCA a 2D para visualización; si hay pocos signos, se adapta para evitar errores.
+  - K-Means con `k = min(12, n_samples)` para subconjuntos pequeños.
+  - Cálculo de `silhouette` cuando es válido (entre 2 y `n_samples - 1` labels).
+  - Artefactos guardados en `outputs/` por modelo:
+    - `pca_kmeans_{modelo}.png`: gráfico PCA 2D coloreado por cluster.
+    - `pca_coords_{modelo}.csv`: coordenadas PC1/PC2 por signo.
+    - `kmeans_{modelo}.json`: `used_k`, `inertia`, `centroids`, `labels` por signo.
+  - Reporte consolidado: `outputs/analysis_report.json` con rutas a todos los artefactos.
+- Informe final en Markdown (opcional):
+  - Un agente de reporte (`app/analysis/report_agent.py`) lee `analysis_report.json`, estima pares de signos confundidos (mismos clusters) y redacta `outputs/final_analysis_<date>.md` respondiendo:
+    1. ¿Qué embedding separa mejor los signos?
+    2. ¿Se observa agrupamiento claro en PCA?
+    3. ¿Qué signos tienden a confundirse?
+    4. ¿Influye el intérprete o el modelo de embedding más en la separabilidad?
+  - Puedes forzar el modelo del reporte con `--report-model` o por `.env` usando `OPENAI_SUMMARY_MODEL`.
+
 ### Notas
 
 - El `scrape` intenta usar Browser Use. Si falla o no hay API key, usa un fallback HTTP con `requests` y `BeautifulSoup` para sitios soportados.

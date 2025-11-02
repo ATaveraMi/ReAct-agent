@@ -15,33 +15,32 @@
     {
       "tone": "hopeful",
       "facets": {
-        "love": "exciting developments",
-        "career": "uncertainty ahead",
-        "health": "stay resilient"
+        "love": "It's getting steamy in your love life.",
+        "career": "Stay resilient despite uncertainties.",
+        "health": "Focus on self-care during this testing time."
       },
       "key_points": [
-        "Mystical moon brings hope",
-        "Love life heating up",
-        "Facing uncertainty in career",
-        "Resilience is key"
+        "Mystical moon brings hope.",
+        "Facing uncertainty may require patience.",
+        "Don't give up on yourself."
       ],
-      "final_summary": "Today brings a mix of hope and uncertainty, especially in love and career. Embrace the exciting developments while staying resilient.",
+      "final_summary": "Embrace the hope and passion in your love life while navigating uncertainties in your career and health.",
       "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-aries.aspx",
       "interpreter": "horoscope.com"
     },
     {
-      "tone": "neutral",
+      "tone": "informativo",
       "facets": {
-        "love": "N/A",
-        "career": "N/A",
-        "health": "N/A"
+        "love": "exploración personal",
+        "career": "autoconocimiento",
+        "health": "bienestar emocional"
       },
       "key_points": [
-        "Get a Yes / No answer",
-        "Receive actionable advice",
-        "Pick a card"
+        "Descubre tu carta natal",
+        "Conoce tu camino de vida",
+        "Entiende tu personalidad"
       ],
-      "final_summary": "Explore your questions with a Yes / No Tarot reading for guidance.",
+      "final_summary": "Explora tu carta natal para descubrir aspectos clave de tu vida y personalidad.",
       "source_url": "https://www.astrology.com/horoscope/daily/aries.html",
       "interpreter": "astrology.com"
     }
@@ -49,15 +48,16 @@
   "final": {
     "tone": "optimistic",
     "facets": {
-      "love": "mixed feelings",
-      "career": "exciting developments",
-      "health": "stay resilient"
+      "love": "embrace hope and passion",
+      "career": "navigate uncertainties",
+      "health": "manage uncertainties"
     },
     "key_points": [
-      "mix of hope and uncertainty",
-      "embrace exciting developments",
-      "resilience is key"
+      "Embrace hope in love",
+      "Passion is key",
+      "Uncertainties in career",
+      "Health requires attention"
     ],
-    "final_summary": "Today encourages you to navigate love and career with hope while remaining resilient."
+    "final_summary": "Focus on love and passion while addressing uncertainties in your career and health."
   }
 }

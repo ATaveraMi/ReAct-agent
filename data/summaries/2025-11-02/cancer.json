@@ -5,10 +5,6 @@
     {
       "interpreter": "horoscope.com",
       "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-cancer.aspx"
-    },
-    {
-      "interpreter": "astrology.com",
-      "source_url": "https://www.astrology.com/horoscope/daily/cancer.html"
     }
   ],
   "summaries": [
@@ -23,41 +19,26 @@
         "Hope surrounds you",
         "Mystical moon influences",
         "Time of uncertainty",
-        "Don't give up"
+        "Don't give up on yourself"
       ],
-      "final_summary": "Today brings hope and potential challenges; stay resilient through uncertainties.",
+      "final_summary": "Today brings a hopeful energy, especially in love, but you may face uncertainties in your career and health. Stay resilient.",
       "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-cancer.aspx",
       "interpreter": "horoscope.com"
-    },
-    {
-      "tone": "neutral",
-      "facets": {
-        "love": "N/A",
-        "career": "N/A",
-        "health": "N/A"
-      },
-      "key_points": [
-        "Tarot reading available",
-        "Get a Yes / No answer",
-        "Actionable advice provided"
-      ],
-      "final_summary": "Explore tarot for guidance with a Yes / No answer and actionable advice.",
-      "source_url": "https://www.astrology.com/horoscope/daily/cancer.html",
-      "interpreter": "astrology.com"
     }
   ],
   "final": {
-    "tone": "optimistic",
+    "tone": "hopeful",
     "facets": {
-      "love": "Stay open to new connections.",
-      "career": "Be prepared for unexpected challenges.",
-      "health": "Maintain resilience during stressful times."
+      "love": "positive energy",
+      "career": "uncertainties",
+      "health": "uncertainties"
     },
     "key_points": [
-      "Hope is in the air.",
-      "Potential challenges ahead.",
-      "Use tarot for guidance."
+      "hopeful energy in love",
+      "uncertainties in career",
+      "uncertainties in health",
+      "stay resilient"
     ],
-    "final_summary": "Embrace today's hope while staying resilient against challenges."
+    "final_summary": "Today is filled with hopeful energy, particularly in love, but be prepared for uncertainties in your career and health."
   }
 }

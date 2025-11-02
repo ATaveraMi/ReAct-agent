@@ -1,0 +1,54 @@
+{
+  "text-embedding-3-large": {
+    "n_samples": 12,
+    "used_k": 12,
+    "pca_explained_variance_ratio": [
+      0.26265281438827515,
+      0.1776357889175415
+    ],
+    "silhouette": null,
+    "plot_path": "outputs/pca_kmeans_text-embedding-3-large.png",
+    "pca_coords_path": "outputs/pca_coords_text-embedding-3-large.csv",
+    "kmeans_result_path": "outputs/kmeans_text-embedding-3-large.json",
+    "cluster_labels": {
+      "aries": 6,
+      "taurus": 4,
+      "gemini": 8,
+      "cancer": 5,
+      "leo": 0,
+      "virgo": 9,
+      "libra": 2,
+      "scorpio": 1,
+      "sagittarius": 11,
+      "capricorn": 3,
+      "aquarius": 7,
+      "pisces": 10
+    }
+  },
+  "text-embedding-3-small": {
+    "n_samples": 12,
+    "used_k": 12,
+    "pca_explained_variance_ratio": [
+      0.24542711675167084,
+      0.18088914453983307
+    ],
+    "silhouette": null,
+    "plot_path": "outputs/pca_kmeans_text-embedding-3-small.png",
+    "pca_coords_path": "outputs/pca_coords_text-embedding-3-small.csv",
+    "kmeans_result_path": "outputs/kmeans_text-embedding-3-small.json",
+    "cluster_labels": {
+      "aries": 3,
+      "taurus": 6,
+      "gemini": 4,
+      "cancer": 11,
+      "leo": 0,
+      "virgo": 9,
+      "libra": 7,
+      "scorpio": 1,
+      "sagittarius": 2,
+      "capricorn": 5,
+      "aquarius": 8,
+      "pisces": 10
+    }
+  }
+}

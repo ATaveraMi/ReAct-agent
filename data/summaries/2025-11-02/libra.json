@@ -15,17 +15,16 @@
     {
       "tone": "hopeful",
       "facets": {
-        "love": "getting steamy",
-        "career": "uncertainty",
-        "health": "stay resilient"
+        "love": "It's getting steamy in your love life.",
+        "career": "Stay resilient amidst uncertainties.",
+        "health": "Focus on mental clarity and patience."
       },
       "key_points": [
-        "Hope surrounds you today",
-        "Mystical moon influences your emotions",
-        "Face uncertainties with courage",
-        "Don't give up on yourself"
+        "Hope surrounds you today.",
+        "Expect a time of uncertainty.",
+        "Don't give up on yourself."
       ],
-      "final_summary": "Today brings hope and emotional depth, urging you to confront uncertainties with resilience.",
+      "final_summary": "Embrace the hope and navigate uncertainties with resilience today.",
       "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-libra.aspx",
       "interpreter": "horoscope.com"
     },
@@ -33,13 +32,13 @@
       "tone": "informativo",
       "facets": {
         "love": "exploración personal",
-        "career": "descubrimiento de habilidades",
-        "health": "autoconocimiento"
+        "career": "autoconocimiento",
+        "health": "bienestar emocional"
       },
       "key_points": [
         "Descubre tu carta natal",
-        "Entiende tu camino de vida",
-        "Conoce tu personalidad"
+        "Conoce tu camino de vida",
+        "Entiende tu personalidad"
       ],
       "final_summary": "Explora tu carta natal para entender mejor tu vida y personalidad.",
       "source_url": "https://www.astrology.com/horoscope/daily/libra.html",
@@ -49,15 +48,15 @@
   "final": {
     "tone": "optimista",
     "facets": {
-      "love": "reflexiona sobre tus emociones",
-      "career": "enfrenta desafíos con valentía",
-      "health": "mantén una actitud positiva"
+      "love": "abierto a nuevas conexiones",
+      "career": "navegando incertidumbres con confianza",
+      "health": "enfocado en el bienestar emocional"
     },
     "key_points": [
-      "Hoy trae esperanza",
-      "Confronta incertidumbres",
-      "Explora tu carta natal"
+      "abraza la esperanza",
+      "navega las incertidumbres",
+      "explora tu carta natal"
     ],
-    "final_summary": "Un día para enfrentar lo desconocido con resiliencia y autoconocimiento."
+    "final_summary": "Hoy es un día para abrazar la esperanza y enfrentar las incertidumbres con resiliencia."
   }
 }

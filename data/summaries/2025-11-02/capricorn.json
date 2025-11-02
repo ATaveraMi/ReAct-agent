@@ -15,49 +15,50 @@
     {
       "tone": "hopeful",
       "facets": {
-        "love": "exciting developments",
-        "career": "uncertainty ahead",
-        "health": "stay resilient"
+        "love": "getting steamy",
+        "career": "uncertain",
+        "health": "tested"
       },
       "key_points": [
-        "Mystical moon brings hope",
-        "Love life heating up",
+        "Hope surrounds you",
+        "Mystical moon influences",
         "Facing uncertainty",
-        "Don't give up"
+        "Don't give up on yourself"
       ],
-      "final_summary": "Today brings a mix of hope and uncertainty, especially in love and career. Stay resilient and embrace the exciting developments ahead.",
+      "final_summary": "Today brings a hopeful energy as you navigate uncertainties in love and career; stay resilient.",
       "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-capricorn.aspx",
       "interpreter": "horoscope.com"
     },
     {
-      "tone": "informativo",
+      "tone": "neutral",
       "facets": {
-        "love": "exploración personal",
-        "career": "autoconocimiento",
-        "health": "reflexión interna"
+        "love": "N/A",
+        "career": "N/A",
+        "health": "N/A"
       },
       "key_points": [
-        "Descubre tu carta natal",
-        "Entiende tu camino de vida",
-        "Conoce tu personalidad"
+        "Tarot reading available",
+        "Get a Yes/No answer",
+        "Actionable advice provided"
       ],
-      "final_summary": "Explora tu carta natal para comprender mejor tu vida y personalidad.",
+      "final_summary": "Explore tarot for guidance with a Yes/No answer and actionable insights.",
       "source_url": "https://www.astrology.com/horoscope/daily/capricorn.html",
       "interpreter": "astrology.com"
     }
   ],
   "final": {
-    "tone": "optimistic",
+    "tone": "hopeful",
     "facets": {
-      "love": "mixed feelings",
-      "career": "uncertainty but potential",
-      "health": "stay resilient"
+      "love": "navigate uncertainties",
+      "career": "stay resilient",
+      "health": "explore tarot for guidance"
     },
     "key_points": [
-      "mix of hope and uncertainty",
-      "exciting developments ahead",
-      "explore your natal chart"
+      "hopeful energy today",
+      "navigate uncertainties in love",
+      "stay resilient in career",
+      "explore tarot for guidance"
     ],
-    "final_summary": "Embrace the day's mix of hope and uncertainty in love and career while exploring your natal chart for deeper insights."
+    "final_summary": "Embrace the hopeful energy today as you face uncertainties in love and career, and consider tarot for insights."
   }
 }
