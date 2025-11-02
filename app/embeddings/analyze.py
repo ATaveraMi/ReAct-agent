@@ -29,22 +29,54 @@ def analyze_embeddings(embeddings_by_model: Dict[str, np.ndarray], signs: list[s
         pca = PCA(n_components=n_comp, random_state=42)
         Xp = pca.fit_transform(X)
         if Xp.shape[1] == 1:
-            # Pad to 2D for plotting
             X2 = np.hstack([Xp, np.zeros((n_samples, 1), dtype=Xp.dtype)])
             pca_ratio = [float(pca.explained_variance_ratio_[0]), 0.0]
         else:
             X2 = Xp
             pca_ratio = [float(v) for v in pca.explained_variance_ratio_[:2]]
 
+        # Save PCA coordinates per model
+        pca_coords_path = f"outputs/pca_coords_{model}.csv"
+        try:
+            import pandas as pd  # local import to avoid global dependency implications
+
+            df_coords = pd.DataFrame({
+                "sign": signs[:n_samples],
+                "pc1": X2[:, 0],
+                "pc2": X2[:, 1],
+            })
+            df_coords.to_csv(pca_coords_path, index=False)
+        except Exception:
+            pca_coords_path = None
+
         # Adaptive KMeans: k <= n_samples (and at least 1)
         k = 1 if n_samples < 2 else min(12, n_samples)
         kmeans = KMeans(n_clusters=k, n_init=20, random_state=42)
         labels = kmeans.fit_predict(X)
 
-        if k > 1 and len(set(labels)) > 1:
+        unique_labels = len(set(labels))
+        if k > 1 and 2 <= unique_labels <= (n_samples - 1):
             sil = float(silhouette_score(X, labels))
         else:
             sil = None
+
+        # Save KMeans results (centroids + labels)
+        kmeans_result_path = f"outputs/kmeans_{model}.json"
+        try:
+            with open(kmeans_result_path, "w", encoding="utf-8") as f:
+                json.dump(
+                    {
+                        "used_k": k,
+                        "inertia": float(kmeans.inertia_),
+                        "centroids": kmeans.cluster_centers_.tolist(),
+                        "labels": {signs[i]: int(labels[i]) for i in range(n_samples)},
+                    },
+                    f,
+                    ensure_ascii=False,
+                    indent=2,
+                )
+        except Exception:
+            kmeans_result_path = None
 
         # Plot
         plt.figure(figsize=(10, 7))
@@ -68,6 +100,8 @@ def analyze_embeddings(embeddings_by_model: Dict[str, np.ndarray], signs: list[s
             "pca_explained_variance_ratio": pca_ratio,
             "silhouette": sil,
             "plot_path": out_path,
+            "pca_coords_path": pca_coords_path,
+            "kmeans_result_path": kmeans_result_path,
             "cluster_labels": {signs[i]: int(labels[i]) for i in range(n_samples)},
         }
 

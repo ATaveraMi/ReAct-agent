@@ -15,33 +15,32 @@
     {
       "tone": "hopeful",
       "facets": {
-        "love": "steamy",
-        "career": "uncertain",
-        "health": "tested"
+        "love": "It's getting steamy",
+        "career": "uncertainty may arise",
+        "health": "stay resilient"
       },
       "key_points": [
-        "Hope surrounds you",
-        "Mystical moon influences",
-        "Facing uncertainty",
-        "Don't give up"
+        "Mystical moon brings hope",
+        "Time of uncertainty ahead",
+        "Don't give up on yourself"
       ],
-      "final_summary": "Today brings hope and a steamy love forecast, but you may feel tested in your career and health.",
+      "final_summary": "Embrace the hope brought by the moon while navigating through uncertainty; resilience is key.",
       "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-gemini.aspx",
       "interpreter": "horoscope.com"
     },
     {
       "tone": "neutral",
       "facets": {
-        "love": "N/A",
-        "career": "N/A",
-        "health": "N/A"
+        "love": "Seek clarity in relationships.",
+        "career": "Consider options carefully.",
+        "health": "Stay balanced and grounded."
       },
       "key_points": [
-        "Tarot reading available",
-        "Get a Yes/No answer",
-        "Actionable advice provided"
+        "Focus on decision-making.",
+        "Evaluate your choices.",
+        "Trust your intuition."
       ],
-      "final_summary": "Explore tarot for a direct answer and guidance.",
+      "final_summary": "Today is a day for making thoughtful decisions and seeking clarity in various aspects of life.",
       "source_url": "https://www.astrology.com/horoscope/daily/gemini.html",
       "interpreter": "astrology.com"
     }
@@ -49,17 +48,15 @@
   "final": {
     "tone": "optimistic",
     "facets": {
-      "love": "steamy love forecast",
-      "career": "feeling tested",
-      "health": "feeling tested"
+      "love": "Seek clarity in relationships.",
+      "career": "Make thoughtful decisions.",
+      "health": "Focus on resilience."
     },
     "key_points": [
-      "Today brings hope",
-      "Steamy love forecast",
-      "Career challenges",
-      "Health challenges",
-      "Explore tarot for guidance"
+      "Embrace hope from the moon.",
+      "Navigate through uncertainty.",
+      "Resilience is key."
     ],
-    "final_summary": "Embrace the hopeful love vibes today, but be prepared for challenges in your career and health; consider tarot for insights."
+    "final_summary": "Today encourages thoughtful decision-making and resilience amidst uncertainty."
   }
 }

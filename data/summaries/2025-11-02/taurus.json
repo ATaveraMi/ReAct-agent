@@ -5,40 +5,59 @@
     {
       "interpreter": "horoscope.com",
       "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-taurus.aspx"
+    },
+    {
+      "interpreter": "astrology.com",
+      "source_url": "https://www.astrology.com/horoscope/daily/taurus.html"
     }
   ],
   "summaries": [
     {
       "tone": "hopeful",
       "facets": {
-        "love": "steamy",
-        "career": "uncertain",
-        "health": "resilient"
+        "love": "It's getting steamy in your love life.",
+        "career": "Stay resilient despite uncertainties.",
+        "health": "Focus on self-care during challenging times."
       },
       "key_points": [
-        "Hope surrounds you today",
-        "Love life is heating up",
-        "Facing uncertainty in career",
-        "Stay resilient in health matters"
+        "Mystical moon brings hope.",
+        "Facing uncertainty may require patience.",
+        "Don't give up on yourself."
       ],
-      "final_summary": "Today brings hope and a steamy love life, but be prepared for uncertainties in your career while maintaining resilience in your health.",
+      "final_summary": "Embrace the hope surrounding you today, especially in love, while navigating uncertainties in your career and prioritizing your health.",
       "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-taurus.aspx",
       "interpreter": "horoscope.com"
+    },
+    {
+      "tone": "neutral",
+      "facets": {
+        "love": "N/A",
+        "career": "N/A",
+        "health": "N/A"
+      },
+      "key_points": [
+        "Tarot reading available",
+        "Get a Yes / No answer",
+        "Actionable advice provided"
+      ],
+      "final_summary": "Explore a Tarot reading for clear answers and guidance.",
+      "source_url": "https://www.astrology.com/horoscope/daily/taurus.html",
+      "interpreter": "astrology.com"
     }
   ],
   "final": {
     "tone": "optimistic",
     "facets": {
-      "love": "steamy love life",
-      "career": "uncertainties",
-      "health": "maintain resilience"
+      "love": "positive",
+      "career": "uncertain",
+      "health": "priority"
     },
     "key_points": [
-      "hopeful day",
-      "exciting romantic prospects",
-      "career challenges ahead",
-      "stay strong in health"
+      "Embrace hope in love",
+      "Navigate career uncertainties",
+      "Prioritize health",
+      "Consider a Tarot reading for guidance"
     ],
-    "final_summary": "Embrace the excitement in love while navigating career uncertainties and focusing on your health."
+    "final_summary": "Today is a day to focus on love and health while seeking clarity in your career through Tarot."
   }
 }

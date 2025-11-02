@@ -15,49 +15,49 @@
     {
       "tone": "hopeful",
       "facets": {
-        "love": "It's getting steamy, whether single or taken.",
-        "career": "Uncertainty may challenge your current path.",
-        "health": "Stay resilient during this testing time."
+        "love": "exciting developments",
+        "career": "uncertainty ahead",
+        "health": "stay resilient"
       },
       "key_points": [
-        "Hope surrounds you today.",
-        "Mystical moon influences your emotions.",
-        "Face uncertainties with confidence."
+        "Mystical moon brings hope",
+        "Love life heating up",
+        "Facing uncertainty in career",
+        "Resilience is key"
       ],
-      "final_summary": "Today brings hope and emotional intensity, urging you to navigate uncertainties with resilience.",
+      "final_summary": "Today brings a mix of hope and uncertainty, especially in love and career. Embrace the exciting developments while staying resilient.",
       "source_url": "https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-aries.aspx",
       "interpreter": "horoscope.com"
     },
     {
-      "tone": "informativo",
+      "tone": "neutral",
       "facets": {
-        "love": "exploración personal",
-        "career": "autoconocimiento",
-        "health": "bienestar emocional"
+        "love": "N/A",
+        "career": "N/A",
+        "health": "N/A"
       },
       "key_points": [
-        "Descubre tu carta natal",
-        "Conoce tu camino de vida",
-        "Entiende tu personalidad"
+        "Get a Yes / No answer",
+        "Receive actionable advice",
+        "Pick a card"
       ],
-      "final_summary": "Explora tu carta natal para descubrir tu camino y personalidad únicos.",
+      "final_summary": "Explore your questions with a Yes / No Tarot reading for guidance.",
       "source_url": "https://www.astrology.com/horoscope/daily/aries.html",
       "interpreter": "astrology.com"
     }
   ],
   "final": {
-    "tone": "optimista",
+    "tone": "optimistic",
     "facets": {
-      "love": "intensidad emocional",
-      "career": "navegar incertidumbres",
-      "health": "resiliencia"
+      "love": "mixed feelings",
+      "career": "exciting developments",
+      "health": "stay resilient"
     },
     "key_points": [
-      "Hoy trae esperanza",
-      "Intensidad emocional",
-      "Navegar incertidumbres",
-      "Explorar tu carta natal"
+      "mix of hope and uncertainty",
+      "embrace exciting developments",
+      "resilience is key"
     ],
-    "final_summary": "Un día para encontrar esperanza y fortalecer tu resiliencia ante las incertidumbres."
+    "final_summary": "Today encourages you to navigate love and career with hope while remaining resilient."
   }
 }
